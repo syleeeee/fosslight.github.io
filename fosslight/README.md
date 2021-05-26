@@ -59,7 +59,7 @@ To develop and distribute software containing open source software, you need to 
 
 ## Documentation
 
-Please refer the <a href="https://fosslight.org/fosslight-guide-en/"><b>FOSSLight Guide</b></a>.
+Please refer the <a href="https://fosslight.github.io/fosslight-guide-en/"><b>FOSSLight Guide</b></a>.
 
 ## Source Code
 

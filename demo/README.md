@@ -27,5 +27,5 @@ First, create an account with 'SignUp' button and log in to the system.
 
 ### 2) Try it
 
-We provide the [FOSSLight guide](https://fosslight.org/fosslight-system-guide/) to make FOSSLight easier, simpler and more convenient for many to use.
+We provide the [FOSSLight guide](https://fosslight.github.io/fosslight-guide-en/) to make FOSSLight easier, simpler and more convenient for many to use.
 Try out everything you want to with FOSSLight yourself!
