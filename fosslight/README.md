@@ -11,6 +11,8 @@ permalink: /fosslight/
 <img src="../assets/img/fosslight_system.jpg" alt="FOSSLight System"><br>
 To develop and distribute software containing open source software, you need to follow the OSC(Open Source Compliance) process. FOSSLight is an integrated system that can process the OSC process sequentially.
 
+You can refer <a href="https://oss.lge.com/guide/process/osc_process/"><b>https://oss.lge.com/guide/process/osc_process/</b></a> for the OSC process.
+
 ## Features
 
 <div class="flex-container">
