@@ -70,3 +70,8 @@ Github Repository : <a href="https://github.com/fosslight/fosslight"><b>https://
 ## License
 
 FOSSLight System is licensed under <a href="https://opensource.org/licenses/AGPL-3.0"><b>AGPL-3.0 License</b></a>.
+
+## Contact
+
+Join to FOSSLight Community on slak! : [**https://fosslight.slack.com**](https://fosslight.slack.com)  
+You can also post bug reports and feature requests in [**Github issues**](https://github.com/fosslight/fosslight/issues).
