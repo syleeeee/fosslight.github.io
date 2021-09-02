@@ -1,17 +1,19 @@
 ---
 layout: page
-title: FOSSLight
+title: FOSSLight Hub
 hide_description: true
 sitemap: false
 permalink: /fosslight/
 ---
 
-## What is FOSSLight?
+* toc
+{:toc}
 
-<img src="../assets/img/fosslight_system.jpg" alt="FOSSLight System"><br>
-To develop and distribute software containing open source software, you need to follow the OSC(Open Source Compliance) process. FOSSLight is an integrated system that can process the OSC process sequentially.
+## What is FOSSLight Hub?
 
-You can refer <a href="https://oss.lge.com/guide/process/osc_process/"><b>https://oss.lge.com/guide/process/osc_process/</b></a> for the OSC process.
+<img src="../assets/img/fosslight_hub.png" alt="FOSSLight Hub"><br>
+FOSSLight Hub helps you use the open source software compliantly and securely by managing open source, license and also vulnerability. Also it can process the OSC (Open Source Compliance) process by managing BOM for each project and track issues on open source license obligations and vulnerabilities.  <br>  
+If you want to know more information about open source compliance, then you can refer the **OSC process guide**(<a href="https://oss.lge.com/guide/process/osc_process/"><b>https://oss.lge.com/guide/process/osc_process/</b></a>).
 
 ## Features
 
@@ -61,6 +63,7 @@ You can refer <a href="https://oss.lge.com/guide/process/osc_process/"><b>https:
 
 ## Documentation
 
+We provide the guide for the installation and how to use it.  
 Please refer the <a href="https://fosslight.github.io/fosslight-guide-en/"><b>FOSSLight Guide</b></a>.
 
 ## Source Code
@@ -69,7 +72,7 @@ Github Repository : <a href="https://github.com/fosslight/fosslight"><b>https://
 
 ## License
 
-FOSSLight System is licensed under <a href="https://opensource.org/licenses/AGPL-3.0"><b>AGPL-3.0 License</b></a>.
+FOSSLight Hub is licensed under <a href="https://opensource.org/licenses/AGPL-3.0"><b>AGPL-3.0 License</b></a>.
 
 ## Contact
 

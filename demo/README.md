@@ -6,9 +6,12 @@ sitemap: false
 permalink: /demo/
 ---
 
-## FOSSLight Demo
+* toc
+{:toc}
 
-You can experience FOSSLight through the [Demo site](https://demo.fosslight.org/).
+## FOSSLight Hub Demo
+
+You can experience **FOSSLight Hub** through the [Demo site](https://demo.fosslight.org/).
 Please visit the Demo site and try out the many features of the FOSSLight first-hand!
 
 ### 0) Demo URL

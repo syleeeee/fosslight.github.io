@@ -8,13 +8,14 @@ sitemap: false
 permalink: /scanner/
 ---
 
+* toc
 {:toc}
 
 ## Introduction
 
-![](../assets/img/fosslight_scanner.jpg)
+![](../assets/img/fosslight_scanner.png)
 
-FOSSLight Scanner can perform an analysis for open source compliance at once. It can perform open source analysis of source code, binary and dependency. Also, it can check whether an open source complies with the copyright/license writing rule.
+FOSSLight Scanner can perform an analysis for open source compliance at once. It can perform open source analysis of source code, binary and dependency and generate the report that contains the open source information that can be extracted. You can use the report file with [FOSSLight Hub](/fosslight). Also, it can check whether an open source complies with the copyright/license writing rule.
 
 ## Features
 
